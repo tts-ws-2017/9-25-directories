@@ -2,7 +2,14 @@
 
 ***Windows users should do this in git bash***
 
-1. Use the `cd~` command to get to your home directory
+## Setup your workspace
+1. Look in github and clone the 9-25-directories repository
+2. Checkout a branch to work in
+3. Create a directory with your name
+4. Touch a .gitkeep file in that directory, commit and push up your branch
+
+## Do the following
+1. Navigate into the directory you just created
 2. Run the `ls` command to list the contents of your home directory
 3. Create a directory called lion_king `mkdir lion_king`
 4. Use the `cd` command to enter the lion_king directory `cd lion_king`
